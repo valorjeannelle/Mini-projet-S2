@@ -1,2 +1,35 @@
-# Mini-projet-S2
- Dans le cadre d'un mini défi de la formation Akieni Academy,j'ai realisé une page web appelée "Cozy Valor" .Ce projet a été conçu pour mettre en pratique les bases du HTML5 sémantique, en utilisant des balises adaptées pour structurer le contenu de manière claire, accessible et conforme aux bonnes pratiques du web
+# Cozy Valor
+
+Cozy Valor est une page web réalisée dans le cadre d’un mini défi de la formation Akieni Academy consacré au HTML5 sémantique.
+
+## 🎯 Objectifs
+
+- Comprendre et concevoir l’architecture globale d’une page web.
+- Utiliser les balises sémantiques de HTML5 à bon escient.
+- Créer un formulaire fonctionnel et accessible.
+- Appliquer les bonnes pratiques du développement web.
+- Valider et inspecter le code avec les outils DevTools & W3C.
+
+## 🛠️ Technologies utilisées
+
+- HTML5
+
+## 🌐 Démo
+
+👉 [Voir la page Cozy Valor](https://ton-lien-ici.com)
+
+## 📚 Contexte
+
+Ce projet a été réalisé dans le cadre d’un mini défi de la formation Akieni Academy afin de mettre en pratique les concepts du HTML5 sémantique.
+
+## ✨ Fonctionnalités
+
+- Structure HTML5 sémantique.
+- Navigation claire et organisée.
+- Formulaire accessible.
+- Mise en page responsive.
+- Code validé et inspecté avec les DevTools.
+
+## 📄 Licence
+
+Projet réalisé à des fins d’apprentissage.
