@@ -28,7 +28,7 @@ Ce projet a été réalisé dans le cadre d’un mini défi de la formation Akie
 - Navigation claire et organisée.
 - Formulaire accessible.
 - Mise en page responsive.
-- Code validé et inspecté avec les DevTools.
+- Code validé et inspecté avec les DevTools et W3C.
 
 ## 📄 Licence
 
