@@ -22,6 +22,16 @@ Cozy Valor est une page web réalisée dans le cadre d’un mini défi de la for
 
 Ce projet a été réalisé dans le cadre d’un mini défi de la formation Akieni Academy afin de mettre en pratique les concepts du HTML5 sémantique.
 
+## 🚀 Installation
+
+1. Cloner le dépôt :
+
+```bash
+git clone https://github.com/valorjeannelle/Mini-projet-S2.git
+```
+
+2. Ouvrir `index.html` dans votre navigateur.
+
 ## ✨ Fonctionnalités
 
 - Structure HTML5 sémantique.
