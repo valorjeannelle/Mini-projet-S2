@@ -16,7 +16,7 @@ Cozy Valor est une page web réalisée dans le cadre d’un mini défi de la for
 
 ## 🌐 Démo
 
-👉 [Voir la page Cozy Valor](https://ton-lien-ici.com)
+👉 [Voir la page Cozy Valor](https://cozyvalor.netlify.app/)
 
 ## 📚 Contexte
 
