@@ -10,27 +10,65 @@
 <body>
 <!--En-tête de la page-->
     <header>
+        <h1>Cozy Valor</h1>
         <nav>
-            <a href="#accueil">Acceuil</a>
-            <a href="#a_propos">À propos</a>
-            <a href="#rejoins_nous">Rejoins-nous</a>
+            <ul>
+           <li><a href="#accueil">Acceuil</a></li>
+            <li><a href="#a_propos">À propos</a></li>
+            <li><a href="#services">Nos services</a></li>
+            <li><a href="#rejoins_nous">Régoins-nous</a></li>
+            </ul>
         </nav>
     </header>
 
     <!--Contenu principal-->
     <main id="accueil" >
-        <h1>Cozy Valor</h1>
+    <!--Présentation de  la structure Cozy Valor-->
         <section id="a_propos">
             <h2>Découvrez nous</h2>
             <article>
                 <h3>C'est quoi Cozy Valor?</h3>
                 <p>Cozy Valor est une escapade pour les amoureux du confort, une aventure dans un salon chaleureux pour se détendre et oublier le monde extérieur.</p>
             </article>
-            <aside>
-                <h3>Petit conseil</h3>
-                <p>Déconnectez votre téléphone dès votre arrivée pour profiter pleinement de cette parenthèse hors du temps.</p>
+            </section>
+    <!--Fin de la présentation-->     
+
+    <!--Section dédiée au différentes services du site-->
+            <section id="services">
+                <h2>Nos services</h2>
+                <article>
+                    <h3>Massages relaxants</h3>
+                    <p>Oublez tous vos soucis sous les mains expertes de nos masseurs et masseuses.
+                        Des techniques douces pour appaiser le corps et libérer les tensions.
+                    </p>
+                </article>
+                 <article>
+                    <h3>Soins du visage</h3>
+                    <p>Rituels beauté pour une peau éclatante et reposée.</p>
+                </article>
+                <article>
+                    <h3>Aromathérapie</h3>
+                    <p>Huiles essentielles et senteurs apaisantes pour une immersion sensorielle.</p>
+                </article>
+                <article>
+                    <h3>Espace thé et infusions</h3>
+                    <p>Dégustation de boisons chaudes dans une ambiance cozy .</p>
+                </article>
+                <article>
+                    <h3>Ateliers bien-être</h3>
+                    <p>Yoga doux,méditation guidé ou mini-sessions de développement personnel.</p>
+                </article>    
+            </section>
+    <!--Fin de la section-->
+
+    <!--Conseil sur la tenu à avoir lors des séances-->
+        <aside>
+            <h4>Petit conseil</h4>
+            <p>Déconnectez votre téléphone dès votre arrivée pour profiter pleinement de cette parenthèse hors du temps.</p>
             </aside>
-        </section >
+    <!--Fin de l'info -->
+
+    <!--Formulaire pour se faire enrégistrer-->
         <section id="rejoins_nous">
             <form>
                 <h3>Faites-vous enregistrez</h3>
@@ -39,18 +77,21 @@
                     <label for="nom">Nom:</label>
                     <input type="text" id="nom" name="nom" placeholder="votre nom ici">
                     <label for="prenom">Prénom:</label>
-                    <input type="text" id="prenom" name="prenom" placeholder="votre prenom ici">
+                    <input type="text" id="prenom" name="prenom" placeholder="votre prénom ici">
                     <label for="email">E-mail</label>
                     <input type="email" id="email" name="email" placeholder="votreemail@gmail.com">
                     <button  id="enregistrement">Valider</button>
                 </fieldset>
             </form>
         </section>
+    <!--Fin de la section-->
     </main> 
-
+<!---Fin du contenu principal-->
+    
 <!--Bas de page-->
     <footer>
         <p>&copy; cozyvalor2026@gmail.com</p>
+        <p>13 Rue Lumpika,Plateau des 15ans</p>
     </footer>
 </body>
 </html>
