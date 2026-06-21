@@ -1,8 +1,8 @@
-# Cozy Valor
+Cozy Valor
 
 Cozy Valor est une page web réalisée dans le cadre d’un mini défi de la formation Akieni Academy consacré au HTML5 sémantique.
 
-## 🎯 Objectifs
+Objectifs
 
 - Comprendre et concevoir l’architecture globale d’une page web.
 - Utiliser les balises sémantiques de HTML5 à bon escient.
@@ -10,19 +10,19 @@ Cozy Valor est une page web réalisée dans le cadre d’un mini défi de la for
 - Appliquer les bonnes pratiques du développement web.
 - Valider et inspecter le code avec les outils DevTools & W3C.
 
-## 🛠️ Technologies utilisées
+Technologies utilisées
 
 - HTML5
 
-## 🌐 Démo
+ Démo
 
-👉 [Voir la page Cozy Valor](https://cozyvalor.netlify.app/)
+ [Voir la page Cozy Valor](https://cozyvalor.netlify.app/)
 
-## 📚 Contexte
+ Contexte
 
 Ce projet a été réalisé dans le cadre d’un mini défi de la formation Akieni Academy afin de mettre en pratique les concepts du HTML5 sémantique.
 
-## 🚀 Installation
+##  Installation
 
 1. Cloner le dépôt :
 
@@ -32,14 +32,12 @@ git clone https://github.com/valorjeannelle/Mini-projet-S2.git
 
 2. Ouvrir `index.html` dans votre navigateur.
 
-## ✨ Fonctionnalités
-
+Fonctionnalités
 - Structure HTML5 sémantique.
 - Navigation claire et organisée.
 - Formulaire accessible.
 - Mise en page responsive.
-- Code validé et inspecté avec les DevTools et W3C.
+- Code validé et inspecté avec les DevTools et W3C
 
-## 📄 Licence
-
+Licence
 Projet réalisé à des fins d’apprentissage.
